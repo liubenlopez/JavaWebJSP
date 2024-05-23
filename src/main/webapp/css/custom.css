@@ -1,0 +1,70 @@
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.header-text{
+    position: absolute;
+    top: 14px;
+}
+
+.developer-networks a{
+    margin-right: 15px !important;
+}
+
+.a-image-profile{
+    right: .75rem;
+    top: .55rem;
+}
+
+.image-profile {
+    width: 30px;
+    border-radius: 50%;
+}
+
+.delete-element{
+    color: #e74a3b;
+    opacity: 0.4;
+    cursor: pointer;
+    position: absolute;
+    top: 11px;
+    right: 20px;
+}
+
+.edit-element{
+    color: #4e73df;
+    opacity: 0.4;
+    cursor: pointer;
+    position: absolute;
+    top: 13px;
+    right: 42px;
+    font-size: 12px;
+}
+
+.cancelEditElement{
+    color: #e74a3b;
+    opacity: 0.4;
+    cursor: pointer;
+    position: absolute;
+    top: 25px;
+    right: 40px;
+    font-size: 25px;
+}
+
+.delete-element:hover,
+.edit-element:hover,
+.cancelEditElement:hover{
+    opacity: 1;
+}
+
+.margin-top-auto{
+    margin-top: 5%;
+}
+
+@media (max-width: 576px) {
+    .margin-top-auto{
+        margin-top: 8%;
+    }
+    .developer-networks a{
+        margin-right: 5px !important;
+    }
+}
