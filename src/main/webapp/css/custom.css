@@ -60,6 +60,12 @@
     margin-top: 5%;
 }
 
+.copileft {
+  font: 18px Arial, sans-serif;
+  display: inline-block;
+  transform: rotate(180deg);
+}
+
 @media (max-width: 576px) {
     .margin-top-auto{
         margin-top: 8%;

@@ -23,7 +23,7 @@
                 <a href="https://www.linkedin.com/in/liuben-lopez-aparicio" target="_blank" class="me-2">
                     <i class="fab fa-linkedin"></i>
                 </a>
-                <a href="https://github.com/liubenlopez/Resumen-Angular" target="_blank">
+                <a href="https://github.com/liubenlopez/JavaWebJSP" target="_blank">
                     <i class="fab fa-github"></i>
                 </a>
             </div>
